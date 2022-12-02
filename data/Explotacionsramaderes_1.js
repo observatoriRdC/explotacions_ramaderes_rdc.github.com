@@ -3,6 +3,7 @@ var json_Explotacionsramaderes_1 = {
 "name": "Explotacionsramaderes_1",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "Municipi": "Caldes de Montbui", "Nom": "Can Pedragosa" }, "geometry": { "type": "Point", "coordinates": [ 2.158963245769176, 41.62200651577239 ] } },
 { "type": "Feature", "properties": { "Municipi": "Caldes de Montbui", "Nom": "Agriga" }, "geometry": { "type": "Point", "coordinates": [ 2.173093836629873, 41.615926000227113 ] } },
 { "type": "Feature", "properties": { "Municipi": "Caldes de Montbui", "Nom": "Cal Pagès" }, "geometry": { "type": "Point", "coordinates": [ 2.152845000981485, 41.628360829547681 ] } },
 { "type": "Feature", "properties": { "Municipi": "Caldes de Montbui", "Nom": "Can Campdepadrós" }, "geometry": { "type": "Point", "coordinates": [ 2.180283000386827, 41.644449003347887 ] } },
